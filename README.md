@@ -42,4 +42,4 @@ To get the in-state memory of each node use cmd: `curl http://localhost:5001/dum
 
 To control time node waits before committing a block add `-t 10` when you run a cmd. In this case each node will wait 10 seconds before it proposes a block.
 
-There are other logging ares used throughout the file that can be umcommented to get more in-depth analysis.
+There are other logging areas used throughout the file that can be umcommented to get more in-depth analysis.
